@@ -1,7 +1,7 @@
 # My-Work
 🚀 Explore a curated collection of my Tech projects, crafted with expertise in C++, Python, C#, and JavaScript. This repository is your gateway to witnessing my technical prowess and problem-solving skills, designed to represent me in tech interviews.
                                                                     
-<h1 align="center">Hi 👋, I'm tehrim Shahid</h1>
+<h1 align="center">Hi 👋, I'm Tehrim Shahid</h1>
 <h3 align="center">Welcome to my vibrant tech repository, a testament to my insatiable thirst for learning and relentless work ethic. Delve into a spectrum of projects showcasing my expertise in C++, Python, C#, and JavaScript. Each line of code embodies countless hours of dedication and an unwavering commitment to mastery. In this evolving digital landscape, I constantly strive to stay ahead, honing my skills and crafting innovative solutions. Join me on this exhilarating journey where knowledge transforms into profitable opportunities.</h3>
 
 <img src="pic_trulli.jpg" alt="Italian Trulli">
